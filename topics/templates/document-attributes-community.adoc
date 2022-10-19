@@ -2,10 +2,10 @@
 :project_name_full: Keycloak
 :project_community: true
 :project_product: false
-:project_version: 18.0.0
-:project_versionMvn: 18.0.0
-:project_versionNpm: 18.0.0
-:project_versionDoc: 18.0
+:project_version: 0.221019.2
+:project_versionMvn: 0.221019.2
+:project_versionNpm: 0.221019.2
+:project_versionDoc: 0.221019
 
 :standalone:
 :api-management!:
